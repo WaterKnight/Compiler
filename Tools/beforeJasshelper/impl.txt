@@ -1,0 +1,32 @@
+contents of table: 0C486F80
+path --> Allocation
+getPath --> function: 0C466698
+addSub --> function: 0C4668D8
+//nameKey
+moveTo --> function: 0C4666B8
+//privateTable
+copy --> function: 0C4668F8
+name --> Allocation
+//subList
+	getFromIndex --> function: 0C466798
+	print --> function: 0C4668B8
+	getIndex --> function: 0C4667B8
+	containsKey --> function: 0C466778
+	//memberNext
+	setVal --> function: 0C4667F8
+	iter --> function: 0C466898
+	//memberPrev
+	getVal --> function: 0C4667D8
+	//members
+	//memberIs
+	removeByIndex --> function: 0C466878
+	size --> 0
+	addAt --> function: 0C466838
+	//memberVal
+	contains --> function: 0C466758
+	removeByKey --> function: 0C466858
+	add --> function: 0C466818
+remove --> function: 0C466738
+getCallPath --> function: 0C4666F8
+rename --> function: 0C466718
+type --> module

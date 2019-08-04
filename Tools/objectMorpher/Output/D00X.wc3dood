@@ -1,0 +1,10 @@
+field	jassIdent	1
+raw		D00X
+specials		dmas=5
+specials		dvr1=220
+specials		dvb1=220
+specials		dvg1=220
+specials		dptx=
+specials		dtil=*
+specials		dnam=Spider Statue2
+specials		dusr=1

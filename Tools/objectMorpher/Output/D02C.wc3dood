@@ -1,0 +1,12 @@
+field	jassIdent	1
+raw		D02C
+specials		dmas=0.8
+specials		dptx=
+specials		dnam=Brush
+specials		dmis=0.6
+specials		dcat=E
+specials		dvr1=150
+specials		dfil=Doodads\Brush\Brush.mdl
+specials		dtil=*
+specials		dvg1=200
+specials		dusr=1

@@ -1,0 +1,8 @@
+field	1
+name	Defend Wintercastle
+description	blub
+author	WaterKnight
+playersRecommended
+
+loadingScreenIndex	-1
+loadingScreenModelPath	UI\LoadingScreen.mdx

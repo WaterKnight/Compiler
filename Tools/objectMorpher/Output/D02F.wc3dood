@@ -1,0 +1,12 @@
+field	jassIdent	1
+raw		D02F
+specials		dmas=2.25
+specials		dptx=
+specials		dnam=GrassDark
+specials		dmis=1.5
+specials		dcat=E
+specials		dvr1=150
+specials		dfil=Doodads\Grass\GrassDark.mdl
+specials		dtil=*
+specials		dvg1=175
+specials		dusr=1

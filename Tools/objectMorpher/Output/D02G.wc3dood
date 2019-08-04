@@ -1,0 +1,13 @@
+field	jassIdent	1	2
+raw		D02G
+specials		dmas=2.25
+specials		dvar=2
+specials		dptx=
+specials		dnam=GrassBasic
+specials		dmis=1.5
+specials		dcat=E
+specials		dvr1=150	dvr1=80
+specials		dfil=Doodads\Grass\Grass
+specials		dtil=*
+specials		dvg1=175	dvg1=80
+specials		dusr=1

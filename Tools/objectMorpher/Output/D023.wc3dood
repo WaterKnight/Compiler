@@ -1,0 +1,9 @@
+field	jassIdent	1
+raw		D023
+specials		dfil=Doodads\Cityscape\PavementCorner.mdl
+specials		dmas=5
+specials		dtil=*
+specials		dptx=
+specials		dnam=Cityscape PavementCorner
+specials		dmis=1
+specials		dusr=1

@@ -1,0 +1,9 @@
+field	jassIdent	1
+raw		D02A
+specials		dfil=Doodads\Terrain\NorthrendTree\NorthrendTree.mdl
+specials		dmas=3
+specials		dtil=*
+specials		dptx=
+specials		dnam=Dead Tree
+specials		dmis=2
+specials		dusr=1

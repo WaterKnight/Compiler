@@ -1,0 +1,9 @@
+field	jassIdent	1
+raw		D02B
+specials		dfil=Units\NightElf\MalFurion\MalFurionNoStag.mdl
+specials		donw=1
+specials		dfxr=270
+specials		dptx=
+specials		dnam=Pathing
+specials		dtil=*
+specials		dusr=1

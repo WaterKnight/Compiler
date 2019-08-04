@@ -1,0 +1,9 @@
+field	jassIdent	1
+raw		D01K
+specials		dmas=10
+specials		dvr1=200
+specials		dvg1=200
+specials		dptx=
+specials		dtil=*
+specials		dnam=Firepot
+specials		dusr=1

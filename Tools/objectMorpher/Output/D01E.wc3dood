@@ -1,0 +1,9 @@
+field	jassIdent	1
+raw		D01E
+specials		dfil=Doodads\PillarTransparent\PillarTransparent.mdl
+specials		dvar=1
+specials		dmas=15
+specials		dptx=
+specials		dnam=Pillar transparent
+specials		dtil=*
+specials		dusr=1

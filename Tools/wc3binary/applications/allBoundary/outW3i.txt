@@ -1,0 +1,70 @@
+formatVersion --> 18
+savesAmount --> 10
+editorVersion --> 6052
+mapName --> TRIGSTR_003
+mapAuthor --> TRIGSTR_006
+mapDescription --> TRIGSTR_005
+playersRecommendedAmount --> TRIGSTR_004
+cameraBounds1 --> 0
+cameraBounds2 --> 0
+cameraBounds3 --> 0
+cameraBounds4 --> 0
+cameraBounds5 --> 0
+cameraBounds6 --> 0
+cameraBounds7 --> 0
+cameraBounds8 --> 0
+boundaryMarginLeft --> 6
+boundaryMarginRight --> 6
+boundaryMarginBottom --> 1000
+boundaryMarginTop --> 8
+mapWidthWithoutBoundaries --> 52
+mapHeightWithoutBoundaries --> 0
+flags --> 32768
+hideMinimap --> 0
+modifyAllyPriorities --> 0
+meleeMap --> 0
+initialMapSizeLargeNeverModified --> 0
+maskedAreasPartiallyVisible --> 1
+fixedPlayerForceSetting --> 0
+useCustomForces --> 0
+useCustomTechtree --> 0
+useCustomAbilities --> 0
+useCustomUpgrades --> 0
+mapPropertiesWindowOpenedBefore --> 1
+showWaterWavesOnCliffShores --> 1
+showWaterWavesOnRollingShores --> 1
+tileset --> L
+campaignBackgroundIndex --> -1
+loadingScreenText --> 
+loadingScreenTitle --> 
+loadingScreenSubtitle --> 
+loadingScreenIndex --> 0
+prologueScreenText --> 
+prologueScreenTitle --> 
+prologueScreenSubtitle --> 
+maxPlayers --> 1
+player1
+	num --> 0
+	type --> 1
+	race --> 1
+	startLocation --> 0
+	name --> TRIGSTR_001
+	startLocationX --> -960
+	startLocationY --> 384
+	allyLowPriorityFlags --> 0
+	player1 --> 0
+	allyHighPriorityFlags --> 0
+maxForces --> 1
+force1
+	flags --> 0
+	allied --> 0
+	alliedVictory --> 0
+	sharedVision --> 0
+	shareUnitControl --> 0
+	shareUnitControlAdvanced --> 0
+	players --> -2
+	player1 --> 1
+	name --> TRIGSTR_002
+upgradeModsAmount --> 0
+techModsAmount --> 0
+unitTablesAmount --> 0

@@ -1,0 +1,22 @@
+doods:
+Cityscape Set: xXm0RpH3usXx
+SnowPine: Gottfrei http://www.hiveworkshop.com/forums/models-530/snowpine-114724/
+Wall: Rondo http://www.hiveworkshop.com/forums/models-530/mauer-50393/
+WallEnd: Rondo http://www.hiveworkshop.com/forums/models-530/turm2-50392/
+
+units:
+Balduir: supertoinkz http://www.hiveworkshop.com/forums/models-530/orcish-berserker-160867/
+GhostSword: jatter2 http://www.hiveworkshop.com/forums/models-530/trisword-49403/
+OrcAssassin: Linaze http://www.hiveworkshop.com/forums/models-530/orcassassine-121362/
+SpearScout: Dojo http://www.hiveworkshop.com/forums/models-530/hawk-scout-63142/
+Tarog: Dojo http://www.hiveworkshop.com/forums/models-530/chaoswarlockgreen-53382/
+Tower: unknownczar http://www.hiveworkshop.com/forums/models-530/tower-48014/
+
+sfx:
+LizzyMissile: 
+SakeBombMissile: RetroSexual http://www.hiveworkshop.com/forums/models-530/pandaren-brewmasters-rolling-keg-208407/
+SakeBombBarrel: Dojo
+VictorHammer: Thrikodius http://www.hiveworkshop.com/forums/models-530/maul-strength-120860/
+VioletEarringMissile: Weep http://www.hiveworkshop.com/forums/models-530/arcane-missile-161562/
+VioletEarringMissileOld: epsilon http://www.hiveworkshop.com/forums/models-530/spiritarrow_byepsilon-217407/
+VioletEarringWeaponAttach: marcus158 http://www.hiveworkshop.com/forums/models-530/darknova-108744/

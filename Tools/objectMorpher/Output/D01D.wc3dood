@@ -1,0 +1,8 @@
+field	jassIdent	1
+raw		D01D
+specials		dfil=Doodads\Wall\Wall.mdl
+specials		dmas=10
+specials		dptx=
+specials		dnam=Wall
+specials		dtil=*
+specials		dusr=1

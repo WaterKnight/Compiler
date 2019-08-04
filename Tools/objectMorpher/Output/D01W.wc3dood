@@ -1,0 +1,9 @@
+field	jassIdent	1
+raw		D01W
+specials		dfil=Doodads\Cityscape\FirePlace.mdl
+specials		dmas=2
+specials		dtil=*
+specials		dptx=
+specials		dnam=Cityscape FirePlace
+specials		dmis=1
+specials		dusr=1

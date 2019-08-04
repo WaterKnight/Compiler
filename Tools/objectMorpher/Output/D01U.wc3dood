@@ -1,0 +1,13 @@
+field	jassIdent	1
+raw		D01U
+specials		dfil=Doodads\Cityscape\Bridge.mdl
+specials		dvb1=200
+specials		dptx=
+specials		dnam=Cityscape Bridge
+specials		dmis=1
+specials		dmas=3
+specials		dvg1=200
+specials		dvr1=180
+specials		dtil=*
+specials		dmap=-6.1
+specials		dusr=1

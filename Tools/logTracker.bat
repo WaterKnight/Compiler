@@ -1,0 +1,3 @@
+lua logTracker.lua %*
+
+pause

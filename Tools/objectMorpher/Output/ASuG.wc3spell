@@ -1,0 +1,5 @@
+field	jassIdent	1	2	3	4	5
+raw		ASuG
+specials						acdn=17
+specials						amcs=145
+specials						atar=enemies,friend,ground,invulnerable,neutral,organic,self,vulnerable

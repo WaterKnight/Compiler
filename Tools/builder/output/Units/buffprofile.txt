@@ -1,0 +1,510 @@
+[BWhX]
+Buffart=ReplaceableTextures\CommandButtons\BTNCyclone.blp
+Buffubertip=This unit is whirled up. It cannot act nor be interacted with.
+Bufftip=Whirled up
+
+[BHnS]
+Buffart=ReplaceableTextures\CommandButtons\BTNCriticalStrike.blp
+Buffubertip=Increased attack speed because of a nearby Phantom Blade.
+Bufftip=Hack'n'Slay
+
+[BBub]
+Buffart=ReplaceableTextures\CommandButtons\BTNBigBadVoodooSpell.blp
+Buffubertip=This unit is protected from most harm.
+Bufftip=|cff00ff00Protected by a bubble
+
+[BInf]
+Buffart=ReplaceableTextures\CommandButtons\BTNDoom.blp
+Buffubertip= thereby reducing its armor and spawning a descendant in case of death. Also your spell power is increased.
+Bufftip=|cff00ff00Infection
+
+[BStd]
+Buffart=ReplaceableTextures\CommandButtons\BTNStun.blp
+Buffubertip=This unit is stunned.
+Bufftip=Stunned
+
+[BSA3]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNPlagueCloud.blp
+Buffubertip=This unit is wet, its move and attack speed are hampered.
+Bufftip=|cff00ff00Soaking wet
+
+[BIcB]
+Buffart=ReplaceableTextures\CommandButtons\BTNIcyTreasureBox.blp
+Buffubertip=A cage of ice protects this unit.
+Bufftip=|cff00ff00Ice Block
+
+[BHoN]
+Buffart=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
+Buffubertip=This unit is stunned by '|cffffcc00$name$|r', has problems to evade attacks and takes damage over time.
+Bufftip=|cff00ff00Hand of Nature
+
+[BWac]
+Buffart=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
+Buffubertip='|cffffcc00$name$|r' affects this unit and increases its attack damage.
+Bufftip=|cff00ff00Warcry
+
+[BSMB]
+Buffart=ReplaceableTextures\CommandButtons\BTNGoblinLandMine.blp
+Buffubertip=Goes boom.
+Bufftip=|cff00ff00Mine
+
+[BTrR]
+Buffart=ReplaceableTextures\CommandButtons\BTNSnazzyPotion.blp
+Buffubertip=Is affected by an uberdosis of vitamins.
+Bufftip=|cff00ff00Tropical Rainbow
+
+[BSoD]
+Buffubertip=This unit was perforated by '|cffffcc00$name$|r', it loses hitpoints over time.
+Bufftip=|cff00ff00Bleeding
+
+[BHeO]
+Buffart=ReplaceableTextures\CommandButtons\BTNHealingSalve.blp
+Buffubertip=Treated by '|cffffcc00$name$|r', regenerates hitpoints and is dispelled after some seconds.
+Bufftip=|cff00ff00Herbal Ointment
+
+[BEcl]
+Buffart=ReplaceableTextures\CommandButtons\BTNSoulGem.blp
+Buffubertip=This unit is caught in an eclipse. Its spell power is decreased by |cffffcc00$this.wc3obj:spellPowerRelInc,-,%$|r, move speed by |cffffcc00$this.wc3obj:speedRelInc,-,%$|r and mana regeneration by |cffffcc00$this.wc3obj:manaRegenRelInc,-,%$|r.
+Bufftip=|cff00ff00Eclipse
+
+[BViR]
+Buffart=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
+Buffubertip=This unit is in an adrenaline rush after having defeated an enemy hero nearby.
+Bufftip=|cff00ff00Victory Rush
+
+[BAva]
+Buffart=ReplaceableTextures\CommandButtons\BTNAvatar.blp
+Buffubertip=Avatar form
+Bufftip=|cff00ff00Avatar
+
+[BCrp]
+Buffart=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
+Buffubertip=This unit is weakened by '|cffffcc00$name$|r', reduced armor and attack speed.
+Bufftip=|cff00ff00Crippled
+
+[BVcS]
+Buffart=ReplaceableTextures\CommandButtons\BTNVolcano.blp
+Buffubertip=This unit is affected by '|cffffcc00$name$|r', it explodes on death.
+Bufftip=|cff00ff00Volcanic Shot
+
+[BRVA]
+Buffart=ReplaceableTextures\CommandButtons\BTNHeal.blp
+Buffubertip=The truthful coal eyes of a snowman have seen through this unit's disguise.
+Bufftip=|cff00ff00Discovered
+
+[BMoA]
+Buffart=ReplaceableTextures\CommandButtons\BTNResStone.blp
+Buffubertip=The stone emits mana restoring waves.
+Bufftip=|cff00ff00Monolith Aura
+
+[BZoW]
+Buffart=ReplaceableTextures\CommandButtons\BTNRegenerate.blp
+Buffubertip= it regenerates health over time and has an increased movement speed.
+Bufftip=|cff00ff00Zodiac - winged
+
+[BInB]
+Buffart=ReplaceableTextures\CommandButtons\BTNDoom.blp
+Buffubertip=This unit carries a descendant under its heart that will be unleashed on the host's death.
+Bufftip=|cff00ff00Infection
+
+[BSA1]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNPlagueCloud.blp
+Buffubertip=This unit is wet, its move and attack speed are hampered.
+Bufftip=|cff00ff00Soaking wet
+
+[BWhS]
+Buffart=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheMoon.blp
+Buffubertip=The evasion value of this unit is increased. The caster channeling this buff regenerates mana.
+Bufftip=|cff00ff00White Staff
+
+[BDeS]
+Buffart=ReplaceableTextures\CommandButtons\BTNAnimateDead.blp
+Buffubertip=This unit was brought back to life.
+Bufftip=Revived
+
+[BLiS]
+Buffart=ReplaceableTextures\CommandButtons\BTNLightningShield.blp
+Buffubertip=An electrically charged shield is surround this unit. Nearby entities take damage.
+Bufftip=|cff00ff00Lightning Shield
+
+[BBan]
+Buffart=ReplaceableTextures\CommandButtons\BTNBanish.blp
+Buffubertip=This unit is in an ethereal form where it's insusceptible to any physical attacks.
+Bufftip=Banished
+
+[BSW1]
+Buffart=<ChargeBuff1.wc3imp:target>
+Buffubertip=Swift movements grant this unit an increased evasion chance.
+Bufftip=|cff00ff00Swiftness 1
+
+[BSBP]
+Buffart=ReplaceableTextures\CommandButtons\BTNDrum.blp
+Buffubertip=Poisoned.
+Bufftip=Poisoned
+
+[BPos]
+Buffart=ReplaceableTextures\CommandButtons\BTNMagicalSentry.blp
+Buffubertip=This unit's owner is changed from the default one.
+Bufftip=|cff00ff00Possession
+
+[BSaD]
+Buffart=ReplaceableTextures\CommandButtons\BTNThoriumMelee.blp
+Buffubertip=|cffffcc00$Smokealot:name$|r's attack is charged with extra (magical) damage.
+Bufftip=|cff00ff00Sapphireblue Dagger
+
+[BMSP]
+Buffart=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
+Buffubertip=Deflects a negative spell.
+Bufftip=|cff00ff00Spell Shield
+
+[BReS]
+Buffart=ReplaceableTextures\CommandButtons\BTNDoom.blp
+Buffubertip=Sends out sparks of frost, shackling hostile spirits in the living world.
+Bufftip=|cff00ff00Relentless Shiver
+
+[BCar]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNVampiricAura.blp
+Buffubertip=This unit's critical chance and life leech are increased.
+Bufftip=Carnivore
+
+[BUSC]
+Buffart=ReplaceableTextures\CommandButtons\BTNBloodLust.blp
+Bufftip=Unit Scale Buff
+
+[BLap]
+Buffart=ReplaceableTextures\CommandButtons\BTNGolemStormBolt.blp
+Buffubertip=This unit is stunned by '|cffffcc00$name$|r'.
+Bufftip=|cff00ff00Lapidated
+
+[BSev]
+Buffart=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
+Buffubertip=This unit's bones are deep-frozen. They easily splinter under physical force.
+Bufftip=|cff00ff00Severance
+
+[BVia]
+Buffart=ReplaceableTextures\CommandButtons\BTNVialFull.blp
+Buffubertip=This unit's life, mana and stamina are restored by magical water over time.
+Bufftip=|cff00ff00Eternal Vial
+
+[BBrh]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNGnollCommandAura.blp
+Buffubertip=The wolf twins split part of their damage with their brother.
+Bufftip=Brotherhood
+
+[BSls]
+Bufftip=Sleep Stun
+
+[BBoo]
+Buffart=ReplaceableTextures\CommandButtons\BTNEtherealFormOn.blp
+Buffubertip=This unit is boosted.
+Bufftip=|cff00ff00Boost
+
+[BCyT]
+Buffart=ReplaceableTextures\CommandButtons\BTNCyclone.blp
+Buffubertip=This unit is being churned by a nearby Cyclone.
+Bufftip=|cff00ff00Cyclone - Churned
+
+[BChB]
+Buffart=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
+Buffubertip=This unit was recently affected by a cold shiver. It has problems to do fast movements.
+Bufftip=|cff00ff00Cold and slowed
+
+[BSDA]
+Buffart=ReplaceableTextures\CommandButtons\BTNGreaterInvulneralbility.blp
+Buffubertip=Attack speed.
+Bufftip=|cff00ff00Sleeping Draft
+
+[BHSR]
+Bufftip=HeroSpellReplacerBuff
+
+[BTVT]
+Buffart=ReplaceableTextures\CommandButtons\BTNPotionOfVampirism.blp
+Buffubertip=This unit's spell power and spell vamp is increased by a nearby Theurgic Vessel.
+Bufftip=|cff00ff00Theurgic Vessel - Target
+
+[BSiB]
+Buffart=ReplaceableTextures\CommandButtons\BTNSlippersOfAgility.blp
+Buffubertip=This unit is stealthed and has increased movement speed.
+Bufftip=|cff00ff00Silent Boots
+
+[BIFo]
+Buffart=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
+Buffubertip=Pushes enemies away. The chance for critical attacks is increased.
+Bufftip=|cff00ff00Inner Force
+
+[BLuR]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNElunesBlessing.blp
+Buffubertip=This unit will be revived.
+Bufftip=|cff00ff00Lunar Restoration
+
+[BSW3]
+Buffart=<ChargeBuff3.wc3imp:target>
+Buffubertip=Swift movements grant this unit an increased evasion chance.
+Bufftip=|cff00ff00Swiftness 3
+
+[BDGI]
+Buffart=ReplaceableTextures\CommandButtons\BTNDoom.blp
+Buffubertip=Your vision play tricks on you. But the pain seems rather real.
+Bufftip=|cff00ff00Doppelganger
+
+[BThV]
+Buffart=ReplaceableTextures\CommandButtons\BTNPotionOfVampirism.blp
+Buffubertip=This unit is a |cffffcc00$name$|r. It increases spell power and spell vamp of nearby allied units.
+Bufftip=|cff00ff00Theurgic Vessel
+
+[BCrA]
+Buffart=ReplaceableTextures\CommandButtons\BTNCleavingAttack.blp
+Buffubertip=Heightened attack speed.
+Bufftip=|cff00ff00Tempest Strike
+
+[BStS]
+Buffart=ReplaceableTextures\CommandButtons\BTNArcaniteArmor.blp
+Buffubertip=This unit is protected by a magical stone.
+Bufftip=|cff00ff00Stone Shield
+
+[BFiW]
+Buffart=ReplaceableTextures\CommandButtons\BTNGreaterInvulneralbility.blp
+Buffubertip=Damages nearby enemies periodically.
+Bufftip=|cff00ff00Fire Water
+
+[BWSh]
+Buffart=ReplaceableTextures\CommandButtons\BTNCyclone.blp
+Buffubertip=This unit's vision is restricted. Its sight range is reduced and attacks are likely to miss. Shrouded units take damage in intervals. Additionally, their armor is reduced.
+Bufftip=|cff00ff00Wan Shroud
+
+[BEnC]
+Buffart=ReplaceableTextures\CommandButtons\BTNSeaGiantPulverize.blp
+Buffubertip=The next attack deals extra damage and restores some life.
+Bufftip=|cff00ff00Energy Charge
+
+[BFLT]
+Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
+Buffubertip=This unit's resistance is lowered.
+Bufftip=|cff00ff00Fountain of Life and Death - weakened
+
+[BBu2]
+Buffart=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
+Buffubertip=This unit is heated up. Attack rate, movement speed and critical chance are increased.
+Bufftip=|cff00ff00Burning Spirit
+
+[BEnS]
+Buffart=ReplaceableTextures\CommandButtons\BTNEnvenomedSpear.blp
+Buffubertip=This unit suffers from a poison, its movements are slowed and the toxin prevents regeneration.
+Bufftip=|cff00ff00Poisoned
+
+[BFrS]
+Buffart=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
+Buffubertip=This unit was recently affected by a cold shiver. It has problems to do fast movements.
+Bufftip=|cff00ff00Frozen Star
+
+[BDGF]
+Buffart=ReplaceableTextures\CommandButtons\BTNFire.blp
+Buffubertip=This unit's attacks are smouldering. It deals splash damage.
+Bufftip=|cff00ff00Fire Buff
+
+[BPur]
+Buffart=ReplaceableTextures\CommandButtons\BTNPurge.blp
+Buffubertip=This unit was purged. Its buffs were removed and it is slowed for a couple of seconds, slowly regaining its movements.
+Bufftip=|cff00ff00Purge
+
+[BSuB]
+Buffart=ReplaceableTextures\CommandButtons\BTNHowlOfTerror.blp
+Buffubertip=Susanoo.
+Bufftip=|cff00ff00Susanoo
+
+[BBar]
+Buffart=ReplaceableTextures\CommandButtons\BTNFrostMourne.blp
+Buffubertip=Very strong
+Bufftip=|cff00ff00Strong
+
+[BSA2]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNPlagueCloud.blp
+Buffubertip=This unit is wet, its move and attack speed are hampered.
+Bufftip=|cff00ff00Soaking wet
+
+[BScP]
+Buffart=ReplaceableTextures\CommandButtons\BTNScroll.blp
+Buffubertip=Heightened armor.
+Bufftip=|cff00ff00Scroll of Protection
+
+[BStI]
+Buffart=ReplaceableTextures\CommandButtons\BTNImpale.blp
+Buffubertip=This unit is impaled. It cannot move and suffers from an open wound.
+Bufftip=|cff00ff00Steel Impalement
+
+[BPoi]
+Buffart=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
+Buffubertip=This unit is poisoned. Its attack speed is decreased by |cffffcc00$this.wc3obj:attackSpeedInc,-,%$|r, its move speed by |cffffcc00$this.wc3obj:speedRelInc,-,%$|r, life regeneration by |cffffcc00$this.wc3obj:lifeRegenRelInc,-,%$|r and heal ability by |cffffcc00$this.wc3obj:healAbilityInc,-,%$|r.
+Bufftip=|cff00ff00Poisoned
+
+[BFoA]
+Buffart=ReplaceableTextures\CommandButtons\BTNHeal.blp
+Buffubertip=A medicative fountain cures this unit's wounds.
+Bufftip=|cff00ff00Healed
+
+[BSDB]
+Buffart=ReplaceableTextures\CommandButtons\BTNPotionOfClarity.blp
+Buffubertip=zzZ
+Bufftip=Sleep
+
+[BSlp]
+Bufftip=Sleep Pause
+
+[BCyA]
+Buffart=ReplaceableTextures\CommandButtons\BTNTornado.blp
+Buffubertip=Causes gradual destruction by circularly dealing damage per second and pushing units around.
+Bufftip=|cff00ff00Cyclone Aura
+
+[BSlP]
+Buffart=ReplaceableTextures\CommandButtons\BTNPoisonSting.blp
+Buffubertip=This unit suffers from a poison, its movements are slowed and the toxin prevents regeneration.
+Bufftip=|cff00ff00Poisoned
+
+[BNGP]
+Buffart=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
+Buffubertip=This unit stands on poisonous ground.
+Bufftip=|cff00ff00Nurturing Grounds
+
+[BFDL]
+Buffart=ReplaceableTextures\CommandButtons\BTNAnimateDead.blp
+Buffubertip=This unit was brought back to life.
+Bufftip=Revived
+
+[BZod]
+Buffart=ReplaceableTextures\CommandButtons\BTNGenericSpellImmunity.blp
+Buffubertip= it cannot collapse and is surrounded by a curing and winging aura.
+Bufftip=|cff00ff00Zodiac
+
+[BIgn]
+Buffart=ReplaceableTextures\CommandButtons\BTNSelfDestruct.blp
+Buffubertip=This unit is ignited. It takes |cffffcc00$this.wc3obj:relDmgPerSecond,%$|r (|cffffcc00$this.wc3obj:relDmgHeroPerSecond$|r) magic damage per second.
+Bufftip=|cff00ff00Ignited
+
+[BWoM]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNVampiricAura.blp
+Buffubertip=This unit's critical chance and life leech are increased.
+Bufftip=Wolf's Mark
+
+[BCol]
+Buffart=ReplaceableTextures\CommandButtons\BTNFrost.blp
+Buffubertip=This unit is cold. It attacks |cffffcc00$this.wc3obj:attackSpeedInc,-,%$|r and moves |cffffcc00$this.wc3obj:speedRelInc,-,%$|r slower. Taken damage is heightened by |cffffcc00$this.wc3obj:dmgTakenInc,%$|r.
+Bufftip=|cff00ff00Cold
+
+[BSil]
+Buffart=ReplaceableTextures\CommandButtons\BTNSilence.blp
+Buffubertip= it cannot cast any spells.
+Bufftip=Silenced
+
+[BKnO]
+Buffart=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
+Buffubertip= it cannot be stunned again by this spell while this buff persists.
+Bufftip=|cff00ff00Knockout
+
+[BUsl]
+Bufftip=Sleep Sleep
+
+[BSW2]
+Buffart=<ChargeBuff2.wc3imp:target>
+Buffubertip=Swift movements grant this unit an increased evasion chance.
+Bufftip=|cff00ff00Swiftness 2
+
+[BTaL]
+Buffart=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
+Buffubertip=Transformed.
+Bufftip=|cff00ff00Tainted Leaf
+
+[BHNP]
+Buffart=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
+Buffubertip=Unit is caught between Cobra Lilys.
+Bufftip=|cff00ff00Hand of Nature (Prison)
+
+[BCof]
+Buffart=ReplaceableTextures\CommandButtons\BTNBerserkForTrolls.blp
+Buffubertip= it cannot differ friend from foe and is not user-controlable.
+Bufftip=|cff00ff00Confused
+
+[BCoR]
+Buffart=ReplaceableTextures\CommandButtons\BTNFreezingBreath.blp
+Buffubertip=This unit's spell armor is increased.
+Bufftip=Cold Resistance
+
+[BMOP]
+Buffart=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
+Buffubertip=This unit carries the '|cffffcc00$name$|r' and has an increased attack rate.
+Bufftip=|cff00ff00Mark of the Paw
+
+[BRec]
+Buffart=ReplaceableTextures\CommandButtons\BTNMagicImmunity.blp
+Buffubertip=This unit's move speed is boosted by '|cffffcc00$thisSpell.wc3spell:name$|r'.
+Bufftip=|cff00ff00Khaki Recovery
+
+[BGrN]
+Buffart=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
+Buffubertip=Unit is entangled.
+Bufftip=|cff00ff00Entangled
+
+[BSaE]
+Buffart=ReplaceableTextures\CommandButtons\BTNOrbofSlowness.blp
+Buffubertip=The caster of this buff receives health each time this unit takes damage.
+Bufftip=|cff00ff00Sanguine Eyes
+
+[BFro]
+Buffart=ReplaceableTextures\CommandButtons\BTNFreezingBreath.blp
+Buffubertip=This unit is frozen stiff. It cannot act and shatters on death.
+Bufftip=|cff00ff00Frost
+
+[BSoP]
+Buffart=ReplaceableTextures\CommandButtons\BTNPoisonSting.blp
+Buffubertip=This unit suffers from a poison, its movements are slowed and the toxin prevents regeneration.
+Bufftip=|cff00ff00Poisoned
+
+[BEmB]
+Buffart=ReplaceableTextures\CommandButtons\BTNCannibalize.blp
+Buffubertip=This unit's attack damage is increased by the '|cffffcc00$name$|r' ability.
+Bufftip=|cff00ff00Emphatic Bite
+
+[BStu]
+Buffart=ReplaceableTextures\CommandButtons\BTNStun.blp
+Buffubertip=This unit is stunned and therefore cannot do any actions.
+Bufftip=Stunned
+
+[BMoM]
+Buffart=ReplaceableTextures\CommandButtons\BTNResStone.blp
+Buffubertip=This unit's regenerates more mana.
+Bufftip=|cff00ff00Monolith - Mana Regen
+
+[BBuS]
+Buffart=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
+Buffubertip=This unit is heated up. Attack rate, movement speed and critical chance are increased.
+Bufftip=|cff00ff00Burning Spirit
+
+[BCrM]
+Buffart=ReplaceableTextures\CommandButtons\BTNMinorRejuvPotion.blp
+Buffubertip=Increased spell power and attack speed.
+Bufftip=|cff00ff00Spell Potion
+
+[BDrR]
+Buffart=ReplaceableTextures\PassiveButtons\PASBTNDrum.blp
+Buffubertip= its attack damage is increased. This buff stacks.
+Bufftip=|cff00ff00Drum Roll
+
+[BIvu]
+Buffart=ReplaceableTextures\CommandButtons\BTNInvulnerable.blp
+Buffubertip=This unit is immune to all kind of damages.
+Bufftip=|cff00ff00Invulnerable
+
+[BMaI]
+Buffart=ReplaceableTextures\CommandButtons\BTNAntiMagicShell.blp
+Buffubertip=This unit is protected from most negative magic.
+Bufftip=|cff00ff00Magic immune
+
+[BWhC]
+Buffart=ReplaceableTextures\CommandButtons\BTNCyclone.blp
+Buffubertip=This unit is whirled up. It cannot act nor be interacted with.
+Bufftip=Whirled up
+
+[BDGC]
+Buffart=ReplaceableTextures\CommandButtons\BTNFrost.blp
+Buffubertip=This unit's attacks are cold.
+Bufftip=|cff00ff00Cold Buff
+

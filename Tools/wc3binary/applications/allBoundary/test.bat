@@ -1,0 +1,1 @@
+allBoundary.bat in_war3map.w3e in_war3map.w3i war3map.w3e war3map.w3i

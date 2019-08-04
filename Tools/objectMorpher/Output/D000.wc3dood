@@ -1,0 +1,10 @@
+field	jassIdent	1	2	3	4	5	6	7	8
+raw		D000
+specials		dmar=180
+specials		dvr1=0		dvr1=0				dvr1=0	
+specials		dvb1=0					dvb1=0		dvb1=0
+specials						dvg1=0		dvg1=128	
+specials		dptx=
+specials		dnam=Crystal
+specials		dmap=180
+specials		dusr=1

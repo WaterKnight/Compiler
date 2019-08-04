@@ -1,0 +1,3 @@
+lua example.lua
+
+pause

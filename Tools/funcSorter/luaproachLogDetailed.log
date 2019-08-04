@@ -1,0 +1,8 @@
+
+D:\Warcraft III\Maps\DWC\Tools\FuncSorter>cd /d D:\Warcraft III\Maps\DWC\Tools\FuncSorter\ 
+
+D:\Warcraft III\Maps\DWC\Tools\FuncSorter>lua "starter.lua" "D:\Warcraft III\Maps\DWC\Tools\jassnewgenpack5d\jasshelper\spellLoader\Build" 
+
+D:\Warcraft III\Maps\DWC\Tools\FuncSorter>cd /d D:\Warcraft III\Maps\DWC\Tools\FuncSorter\ 
+
+D:\Warcraft III\Maps\DWC\Tools\FuncSorter>lua "starter.lua" "D:\Warcraft III\Maps\DWC\Tools\jassnewgenpack5d\jasshelper\spellLoader\Build" 

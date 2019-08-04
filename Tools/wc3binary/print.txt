@@ -1,0 +1,160 @@
+formatVersion --> 18
+savesAmount --> 20
+editorVersion --> 6030
+mapName --> TRIGSTR_007
+mapAuthor --> TRIGSTR_010
+mapDescription --> TRIGSTR_009
+playersRecommendedAmount --> TRIGSTR_008
+cameraBounds1 --> -7424
+cameraBounds2 --> -8192
+cameraBounds3 --> 7936
+cameraBounds4 --> 7680
+cameraBounds5 --> -7424
+cameraBounds6 --> 7680
+cameraBounds7 --> 7936
+cameraBounds8 --> -8192
+boundaryMarginLeft --> 16
+boundaryMarginRight --> 16
+boundaryMarginBottom --> 16
+boundaryMarginTop --> 16
+mapWidthWithoutBoundaries --> 128
+mapHeightWithoutBoundaries --> 128
+flags --> 32768
+hideMinimap --> 0
+modifyAllyPriorities --> 1
+meleeMap --> 1
+initialMapSizeLargeNeverModified --> 0
+maskedAreasPartiallyVisible --> 1
+fixedPlayerForceSetting --> 0
+useCustomForces --> 0
+useCustomTechtree --> 0
+useCustomAbilities --> 0
+useCustomUpgrades --> 0
+mapPropertiesWindowOpenedBefore --> 1
+showWaterWavesOnCliffShores --> 1
+showWaterWavesOnRollingShores --> 1
+tileset --> L
+campaignBackgroundIndex --> -1
+loadingScreenText --> 
+loadingScreenTitle --> 
+loadingScreenSubtitle --> 
+loadingScreenIndex --> -1
+prologueScreenText --> 
+prologueScreenTitle --> 
+prologueScreenSubtitle --> 
+maxPlayers --> 6
+player1
+	num --> 0
+	type --> 1
+	race --> 1
+	startLocation --> 0
+	name --> TRIGSTR_000
+	startLocationX --> 576
+	startLocationY --> 6528
+	allyLowPriorityFlags --> 0
+	player1 --> 0
+	player2 --> 2
+	player3 --> 0
+	player4 --> 0
+	player5 --> 0
+	player6 --> 2
+	allyHighPriorityFlags --> 0
+player2
+	num --> 1
+	type --> 1
+	race --> 2
+	startLocation --> 0
+	name --> TRIGSTR_001
+	startLocationX --> -6400
+	startLocationY --> 3520
+	allyLowPriorityFlags --> 0
+	player1 --> 2
+	player2 --> 0
+	player3 --> 2
+	player4 --> 0
+	player5 --> 0
+	player6 --> 0
+	allyHighPriorityFlags --> 0
+player3
+	num --> 2
+	type --> 1
+	race --> 3
+	startLocation --> 0
+	name --> TRIGSTR_002
+	startLocationX --> -6976
+	startLocationY --> -3328
+	allyLowPriorityFlags --> 0
+	player1 --> 0
+	player2 --> 2
+	player3 --> 0
+	player4 --> 2
+	player5 --> 0
+	player6 --> 0
+	allyHighPriorityFlags --> 0
+player4
+	num --> 3
+	type --> 1
+	race --> 4
+	startLocation --> 0
+	name --> TRIGSTR_003
+	startLocationX --> 192
+	startLocationY --> -7040
+	allyLowPriorityFlags --> 0
+	player1 --> 0
+	player2 --> 0
+	player3 --> 2
+	player4 --> 0
+	player5 --> 2
+	player6 --> 0
+	allyHighPriorityFlags --> 0
+player5
+	num --> 4
+	type --> 1
+	race --> 1
+	startLocation --> 0
+	name --> TRIGSTR_004
+	startLocationX --> 6720
+	startLocationY --> -2944
+	allyLowPriorityFlags --> 0
+	player1 --> 0
+	player2 --> 0
+	player3 --> 0
+	player4 --> 2
+	player5 --> 0
+	player6 --> 2
+	allyHighPriorityFlags --> 0
+player6
+	num --> 5
+	type --> 1
+	race --> 2
+	startLocation --> 0
+	name --> TRIGSTR_005
+	startLocationX --> 7360
+	startLocationY --> 3328
+	allyLowPriorityFlags --> 0
+	player1 --> 2
+	player2 --> 0
+	player3 --> 0
+	player4 --> 0
+	player5 --> 2
+	player6 --> 0
+	allyHighPriorityFlags --> 0
+maxForces --> 1
+force1
+	flags --> 0
+	allied --> 0
+	alliedVictory --> 0
+	sharedVision --> 0
+	shareUnitControl --> 0
+	shareUnitControlAdvanced --> 0
+	players --> -64
+	player1 --> 1
+	player2 --> 1
+	player3 --> 1
+	player4 --> 1
+	player5 --> 1
+	player6 --> 1
+	name --> TRIGSTR_006
+upgradeModsAmount --> 0
+techModsAmount --> 0
+unitTablesAmount --> 0

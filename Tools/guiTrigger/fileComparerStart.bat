@@ -1,0 +1,3 @@
+lua fileComparer.lua
+
+pause

@@ -1,0 +1,346 @@
+﻿STRING 1
+{
+Player 1
+}
+STRING 3
+{
+|cff33ff33[BK's] Gem TD v4.0kn|r
+}
+STRING 4
+{
+|cff22ff228|r
+}
+STRING 5
+{
+|cff33ff33Features:|r
+42 levels - 92 towers
+Unqiue Style in building, mazing, stratergies, bosses, lives and much more. Combining towers to create more powerful ones. Create special towers from you previous round gems. Heaps of unique stuff!
+KNBot Special: x/r only, 6M Boss, -zoom
+}
+STRING 6
+{
+Bryan K (Bryvx UsWest)
+}
+STRING 379
+{
+                  (Bryvx UsWest)
+}
+STRING 380
+{
+                    [BK's] Gem Tower Defense
+}
+STRING 381
+{
+              |cffff0000Make sure to build 5 gems per round|r
+              You can |cffff0000combine|r 2 or 4 gems of the same or
+              |cffff0000Keep|r what gem you want each round.
+
+              Create Special towers with your current or
+              previous gems. 
+
+              |cffff0000Air is every 4th level.|r
+
+              |cff33ff33V1.0 Started 29th Dec 06  - Finished 8th Jan 07|r
+              |cff33ff33V4.0 - 17-19th Aug10 - Latest ver @ epicwar.com|r
+              Thanks to turbopower for all the beta testing.
+
+}
+STRING 388
+{
+Player 2
+}
+STRING 389
+{
+Player 3
+}
+STRING 390
+{
+Player 4
+}
+STRING 391
+{
+Player 5
+}
+STRING 392
+{
+Player 6
+}
+STRING 393
+{
+Player 7
+}
+STRING 394
+{
+Player 8
+}
+STRING 395
+{
+Monsters
+}
+STRING 396
+{
+[BK's] Gem TD
+}
+STRING 397
+{
+Map by Bryvx
+}
+STRING 445
+{
+Gem not in play
+}
+STRING 545
+{
+Easy
+}
+STRING 546
+{
+Normal
+}
+STRING 547
+{
+Hard
+}
+STRING 550
+{
+|cffff0000Game has been set on Easy mode|r
+}
+STRING 552
+{
+|cffff0000Game has been set on Normal mode|r
+}
+STRING 554
+{
+|cffff0000Game has been set on Hard mode|r
+}
+STRING 669
+{
+[BK's] Gem TD was created with the standard Wc3 Editor. If you see any resembalance to other tower defences like Poker TD or Cube defence, I have not looked at any of those maps, all the triggers I have taught myself. Over 100 hrs of straight work in this map so please don't ask how to create combines and such.
+Thanks to turbopower for all the beta testing.
+}
+STRING 704
+{
+This introduction will show you how to create gems.
+Please do not press ESC during this intro.
+}
+STRING 710
+{
+Now i have created a |cff33ff33Flawed Emerald|r. It is more powerful and better.
+|cffff0000If you don't get 2 or more of the same gem. Press the red "keep button" to one.|r 
+}
+STRING 713
+{
+To create |cff33ff33Special Towers|r you will need all the gems required in the recipe.
+If you are lucky enough, you can create a special tower straight up with your 5 placed gems. Otherwise, you can use your previous rounds gems to create them. |cff33ff33The game will notify you|r if you have all the gems required to create a special tower.
+}
+STRING 1406
+{
+|cff22ff22[BK's] Gem TD v1.9|r - Changelog
+
+- Added a new Final Damage test with 600,000 Hitpoints instead of 500,000
+- Improved: Uranium, Blood Stones, Ruby Damage, Wraith Slate (+20% damage), Flawed Emerald (+1 damage), Hold Slate, Enchanted Emerald damage, Great Diamond damage, Air Slate range.
+- Dimmed: Dark/Enchanted Emerald Stun, China Jade (attack speed, increased gold cost), Lucky China Jade (increased gold cost, gold bonus, damage, critical, attack speed), Pink/Great Pink Diamond (damage).
+- Added Extreme creeps from level 17 onwards (Extreme Mode)
+- Basic Slates requirements changed (Removed chipped requirement and added a flawed)
+- Many small balancing, this version will be the most balanced Gem TD.
+}
+STRING 1757
+{
+|cff22ff22[BK's] Gem TD v2.0|r - Changelog
+
+- Added Aquamarine, a new base gem
+- Added 2 new special towers, all with upgrades
+- Added a Range Check button to gems with an aura
+- Added a Anti-Stuck button on Miners
+- Fixed Blocking/Creeps attacking so they will teleport to there destination not the start.
+- Added an Extra Chance button on your mine to use up more gold
+- Fixed some create slate bug issues
+- Fixed text on Hold Slate displaying wrong damage
+- Increase base move speed on extreme creeps and lowered hitpoints to reduce game time.
+}
+STRING 1780
+{
+|cff22ff22[BK's] Gem TD v2.2|r - Changelog
+
+- Added a Downgrade button after pressing keep to a gem.
+- Extra chance is now a higher chance and costs slightly less. The normal chance is 1.25% - Old Extra chance was 4.82% - New Extra chance is 5.95% (Per gem placed, not for the total 5).
+- Increased hitpoints on level 28 Damage Test (from 100,000 to 150,000) and on last Damage Test (600,000 to 700,000)
+- Improved Aquamarines damages by about 20% (also fixed Great Aquas range)
+- Fixed Extra chance cancel bug, not being able to use it when canceled.
+- Slightly increase attack range of Hold/Ancient Slate, they were sometimes not grabbing.
+- Changed a few tiles, giving a less bland look, also made the map fully symetricical (was a bit off before)
+- Keep will now appear only after you have made 5 gems (I really should of done this earlier :S)
+- Reworked Ancient BloodStone
+- Added a new Extra Chance for Slates
+- Increase chipped ruby min damage by 1
+- Added a -3 armor aura (1000 range) to all units for the Great Amethyst
+- Bug fix on some players pressing keep on a special on place, then getting a new gem
+- Improved Wraith Slate damage stacking and explosion area.
+}
+STRING 1876
+{
+Player 9
+}
+STRING 2196
+{
+|cff22ff22[BK's] Gem TD v2.3|r - Changelog
+
+- Redone terrain again mostly back to standard (i believe this was why mac users crashed in 2.2)
+- Added a few slot machines and black jack tables in the middle, you will need a gambler to play
+- Maxing Increase Gem Quality will now give you a gambler for the middle
+- Increased Hold/Ancient Slates range by a little again
+- The dectection of other slates area when teleporting increased a bit to stop some slate stacking
+- Increase Hold slates damage bonus from kills (from x15 to x20) and base from 150 to 160
+- Fixed Opals general aura to always choose the better one
+- Red can now kick by typing "-kick #" or "-kick color" (Example: "-kick teal" or "-kick 3" will kick Player 3 Teal from the game), please don't abuse this hosts...
+- "-go away" will now cover the players full area to stop some abuse
+- Mazing Rocks will now appear when you have not pressed keep or combine at the end of the round
+- Added a gold bonus to the person that kills 1st and 2nd after level 15 (The bonus starts at 5 and 10, increases by 1 every round) this is mainly to promote people to build smaller, more efficiant mazes
+- Black Opal and Mystic Black Opal auras now stack
+- Added swap for 200 gold for Black opal and Rose Quartz
+- Damage kill bonus now works with Star Ruby and Blood Star
+- Changed model and name of First damage test, also increased it's min move speed by 10
+- Sapphire damage is now 100% to all except for blue armor (175%) and Bryvx (0.75%)
+- New Poison Slate, Spell Slate and Elder Slate.
+- Increased range on Flawed Amethyst from 1000 to 1125 and improved Aquamarines damages again.
+- Increased Final Damage Test Hitpoints to 1,000,000 from 700,000
+
+Note: It is so damn hard to make a map idiot-proof and the gambling stuff in the middle is mainly a trial, it is meant to help pass the time in between late rounds.
+}
+STRING 2400
+{
+Classic
+}
+STRING 2403
+{
+|cff22ff22Game has been set to Classic Mode|r
+}
+STRING 2573
+{
+|cff22ff22[BK's] Gem TD v2.4|r - Changelog
+
+- Added a whole new Race Mode, no more waiting for others to finish, now you want them to take longer!
+- Miners now cannot leave their area
+- In classic mode, when the Final Damage Test runs, game will be displaying awards
+- A slate text will pop up if your normal gem can become a slate.
+- 4 Perfect of the same will combine to something other than a Great gem....
+- Small tweaks with some creeps
+- Slate Teleport bug "should" be fixed
+}
+STRING 2614
+{
+|cff22ff22[BK's] Gem TD v2.5|r - Changelog
+
+- Bug fix from Lucky China jade in race mode not giving money
+- Bug fix in race mode where more then one final damage test comes out
+- Bug fix when a player leaves, they remove the slot machine they sit on
+- Bug fix on slate stacking, slates will now not move ontop for a brief time before moving back
+- Bug fix when not pressing keep/combine, combine special will be removed from that unit
+- Bug fix on slot machines adding to many symbols
+- Intro is now activated if Player 1 Red types "-intro" in the first 25 seconds
+- When a player leaves, all his/her creeps will now disappear
+- Gems and slates in abilities will say what special they can be combined to.
+
+Note: Sorry about all the bugs in 2.4 versions, but adding a whole new mode was very tricky. Thanks for everyones support.
+}
+STRING 2616
+{
+Random Information:
+- All units have a minimum slowed speed, (they can't be slowed any more) which is increase greatly in extreme mode.
+- Red Crystal, Red Facet and Rose Quartz Crystal auras stack with each other
+- Black Opal and Mystic Black Opal Auras stack
+- Paraiba Tourmaline and Paraiba Tourmaline Facet Auras do not stack.
+- Emeralds poison damage does not stack
+- A unit cannot be stunned while stunned to increase it's stun lenght.
+- I really don't know why mac users can't play my later versions
+- There are no cheats for this map
+- Do not put me on your friends list or all later versions of gem you wont be able to play.
+}
+STRING 2729
+{
+|cff22ff22[BK's] Gem TD v2.7|r - Changelog
+
+- Had to skip to v2.7 since someone made v2.6 which is fake
+- Changed load screen mainly because i spelt defense wrong
+- Star Yellow Sapphire now gives a 5% damage aura and has 5 extra damage
+- Slate Stacking dectection area increased (from 120 to 200)
+- Race Mode now has 50 Levels and a Final damage test with 1.5 million Hitpoints
+- Race Mode Ground creeps will recieve a 2 armor bonus as soon as 1 player reaches Level 10
+- Race Mode Ground creeps will recieve a 3 armor bonus as soon as 1 player reaches Level 20
+- Race Mode Ground creeps will recieve a 3 armor bonus as soon as 1 player reaches Level 30
+- Dark/Enchanted Emerald will now stun the damage tests for 1.5 seconds (up from 1 second)
+- Intro was not working in v2.5 so i fixed it
+- Fixed bug on Red Crystal having Swap instead of Rose Quartz
+- A Quest message will now be displayed when someone creates a special in one hit.
+- Added 2 more awards at the end of classic mode.
+- Elder Slate Armor reduction spell will increase by 2 per spell level
+- Hold Slate stun is now 1.5 seconds (down from 2) and cooldown of 2 seconds, this will make it kill more creeps
+- Mighty Malachite dimmed slightly
+}
+STRING 2782
+{
+Special Thanks to:
+MafaBaby: Thanks for all the the games you've hosted and all the feedback.
+DMVPDemonMOM: Thanks for all the support and feedback
+Ghost-007: Thanks for the idea of Jade Upgrade
+Vinxu: For independantly doing all the chinese versions.
+Spiriax: For the idea of the placing gem aura
+Scherbatsky: For adding the -zoom feature
+|cFFFF0000Jennyy|r wuz |cFF0000FFhere!|r
+}
+STRING 2863
+{
+|cff22ff22[BK's] Gem TD v2.9|r - Changelog
+
+- Had to skip to v2.9 because v2.8 was leaked out in it's beta stage, seems that i have to get some new beta testers. 
+- Added a new Increase Extra Chance Percent Feature
+- Fixed Swap, it now works well, thanks Vinxu :D
+- Fixed Create Slate button still appearing after you have pressed keep which will screw up race mode for the player.
+- Hopefully fixed bug on kills not being saved when creating specials
+- Removed level 42 Damage Test in Race Mode
+- Added level 25 boss that re-runs your maze when it gets to your mine if you don't kill it. It will get 10,000 hitpoints back everytime it needs to re-run. You will not be able to pass level 25 until you kill it.
+- Fixed bug when cancelling a Random Gem construction a player does not get 1 lumber back
+- Great Aquamarine now gives a 10% attack speed aura which stacks with all the other attack speed bonuses.
+- Great Ruby now can attack 3 targets at 900 range dealing 280 damage per second to each.
+- Increased range of Slow, Opal Vein, Air and Wraith slate from 100 to 130
+- Rose Quartz Crystal now has an immolation aura dealing 50 damage per second in 1500 range.
+- Increased stun chance on Dark/Enchanted Emerald from 10% to 12.5%
+- Added a game commands icon on Miner
+- Added an aura to newly placed gems, mainly for late game.
+- Added "-kills" command  which displays a current selected gems kills
+}
+STRING 2970
+{
+|cff22ff22[BK's] Gem TD v3.0|r - Changelog
+
+- |cffffff00Added 3 new Slates|r
+- Fixed create special not saving kills
+- Race Mode: ReRunner lvl25 heal reduced from 10,000 to 5,000 and hitpoints from 100,000 to 50,000
+- Few changes to icons on main screen such as idle worker and lumber
+- Fixed Increase extra chance 
+- " -kills " did not work because warcraft can't tell the difference between each players selection so i had to remove it
+- Changed Range check for gems with auras up to 800 AoE, this new display is more accurate
+- Small Tweaks to various stuff
+- Star Ruby & Blood Star damage is now in shorter pulses which gives more even constant damage
+}
+STRING 3137
+{
+|cff22ff22[BK's] Gem TD v4.0kn|r - Changelog
+
+- Building on Slates trying to stack will not work anymore - You don't need to slate stack to kill the damage test. . .
+- ReRunner now get -10 armor every time he needs to re-run, and he will stop healing 5,000 after 4 re-runs
+- Buffs to Spell and Elder Slate attack range and some spells
+- When combining special to Elder / Viper slate or Star ruby, the correct level of ability is shown
+- Buff on Viper Slates Damage aura - from 250 to 400 range and now goes up 5% with each 10 kills
+- Poison / Elder Slate initial poison hit increased more with kills
+- Fixed some typos and added a warning when Re-Runner spawns at level 25
+- Slightly reduced upgrade costs for some special towers
+- Slate teleport stacking dectection area increased from 200 to 220
+- Fixed L.C. Jade unstunning an Ancient Slate grab (hopefully)
+- Added mid and final level statistics in race mode
+- Ancient Blood Stone Spell replaced with a Blood Lightning hit, it will level with more kills along with the towers critical damage
+- All Amethysts damage and range slightly increased
+- Race Mode final damage test hitpoints increase from 1,500,000 to 2,000,000 - good luck! :)
+- "-zoom" command added
+- X/R only! Just for the KNBot because we saw everyone leave the game if someone chose Easy or even Classic (brrrr...)
+}

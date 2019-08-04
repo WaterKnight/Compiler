@@ -1,0 +1,9 @@
+field	jassIdent	1
+raw		D01H
+specials		dfil=Doodads\Waterfall\Waterfall.mdl
+specials		dvar=1
+specials		dmas=10
+specials		dptx=
+specials		dnam=Waterfall
+specials		dtil=*
+specials		dusr=1

@@ -1,0 +1,47 @@
+//include these libaries to work with first
+require 'wc3binaryFile'
+require 'wc3binaryMaskFuncs'
+
+//returns a root node for a new wc3binaryFile object
+wc3binaryFile.create()
+
+//returns a new subnode of <node>
+<node>:addNode(name)
+
+//renames <node>
+<node>:rename(name)
+
+//clears everything below <node>
+<node>:clear()
+
+//returns the tree path of <node> starting from the root
+<node>:getFullPath()
+
+//invokes <maskFunc>(<node>) using a file to sequentially read from it while equipping <node> with data
+<node>:readFromFile(path, maskFunc)
+
+//adds a field of given type (see typeDefinitions.lua), a bit mask can be optionally set to reference single bits
+//if this is called within a reading process, it reads a chunk from the file according to the type size, moves the cursor ahead and sets the field to the gained data
+//if this is called within a writing process, it writes the field's value to the file and moves the cursor ahead
+<node>:add(name, type, bits)
+
+//returns the field/node of <name> under <node>
+<node>:getSub(name)
+
+//gets value of <field>
+//sets <field> to <val>
+
+<field>:getVal()
+<field>:setVal(val)
+
+//gets value of <name> field of <node>
+//sets <name> field of <node> to <val>
+
+<node>:getVal(name)
+<node>:setVal(name, val)
+
+//prints everything within the node
+<node>:print()
+
+//invokes <maskFunc>(<node>) using a file to sequentially write to it
+<node>:writeToFile(path, maskFunc)

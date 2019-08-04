@@ -1,0 +1,37 @@
+[FrameDef]
+UPKEEP_LOW=|Cffffff00Game starts
+RESOURCE_UBERTIP_LUMBER=Lumber can be gathered from the woods around Wintercastle.
+GAMEOVER_DISCONNECTED=You lost connection to this world.
+MISS=Noob
+QUESTSMAIN=Story
+QUESTSOPTIONAL=Additional information
+QUESTS=Infocard
+COLON_GOLD=Supply:
+RESOURCE_UBERTIP_GOLD=Supply is gained by finishing off enemies and you get some after each wave. It is no real currency, there is no economics, but you take the enemy's loot to your storage and story tells you try to get resources from outside the castle, so your supply indicates 
+RESOURCES_COLUMN0=Supply gathered
+QUESTFAILED=Noob2
+CHEATENABLED=Do you really need cheats?
+CHEATDISABLED=That's right, stay on the path of light.
+UPKEEP_HIGH=|cff00ff00Easy
+UPKEEP_HIGH2=|cffffff00Medium
+UPKEEP_HIGH3=|cffff0000Hard
+UPKEEP_NONE= 
+UPKEEP_HIGH4=|cff00bfffPenguin
+UPKEEP_HIGH5=|cffffcc00Loading...
+RESOURCES_COLUMN1=Lumber picked up
+UPKEEP_HIGH8=|cffff0000The meteorite is under attack!
+UPKEEP_HIGH6=|cffffcc00Ready
+UPKEEP_HIGH7=|cffffcc00The End
+
+[CustomSkin]
+MultiboardDefaultIcon=ReplaceableTextures\CommandButtons\BTNTemp.blp
+UnderAttackSound=AbominationPissed
+AllyUnderAttackSound=AbominationPissed
+AllyHeroDiesSound=AbominationPissed
+AllyTownUnderAttackSound=AbominationPissed
+TownAttackSound=AbominationPissed
+HeroDiesSound=AbominationPissed
+
+[Categories]
+TaurenClass=Resurrectable
+

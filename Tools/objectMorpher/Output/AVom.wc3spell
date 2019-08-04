@@ -1,0 +1,4 @@
+field	jassIdent	1	2	3	4	5
+raw		AVom
+specials						amcs=45
+specials						atar=air,enemies,ground,neutral,organic

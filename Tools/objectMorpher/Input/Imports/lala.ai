@@ -1,0 +1,10 @@
+globals
+endglobals
+
+function main takes nothing returns nothing
+call SetCampaignAI()
+    call DisplayTextToPlayer(GetLocalPlayer(), 0, 0, "abc")
+call SetUnitsFlee(true)
+call StopGathering()
+
+endfunction

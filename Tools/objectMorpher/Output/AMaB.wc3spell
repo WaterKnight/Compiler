@@ -1,0 +1,4 @@
+field	jassIdent	1	2	3	4	5
+raw		AMaB
+specials						amcs=125
+specials						atar=air,enemy,friend,ground,invulnerable,organic,vulnerable

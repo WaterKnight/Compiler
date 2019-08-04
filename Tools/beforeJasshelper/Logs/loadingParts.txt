@@ -1,0 +1,349 @@
+
+AI_HEADER
+	AIAutoCast_Init
+	AICastSpell_Init
+AI_MISC
+	AILetOff_Init
+COMMANDS
+	CharacterSpeech_Init
+	ClearSpawns_Init
+	CommandAutoCast_Init
+	CommandBuff_Init
+	CommandCreateDestructable_Init
+	CommandCreateItem_Init
+	CommandCreateQuake_Init
+	CommandCreateUnit_Init
+	CommandDebug_Init
+	CommandExp_Init
+	CommandHeroAttribute_Init
+	CommandKillUnit_Init
+	CommandRefreshAbility_Init
+	CommandRemoveUnit_Init
+	CommandScaleUnit_Init
+	CommandSpell_Init
+	CommandSwift_Init
+	CommandTest_Init
+	CommandVertexColorUnit_Init
+	MoveUnit_Init
+	PingSpawns_Init
+	RequestEvent_Init
+	RequestKeyMacro_Init
+	RequestTimers_Init
+	SetDmgTest_Init
+	SetVar_Init
+	VoteHost_Init
+MISC
+	PathingBlockers_Init
+	AfterIntro_Init
+	Drop_Init
+	Explosive_Init
+	GoldCoin_Init
+	HeroSelection_Init
+	HorseRide_Init
+	Infoboard_Init
+	Infocard_Init
+	Intro_Init
+	Library_Init
+	Lumber_Init
+	Snowmen_Init
+	Tomes_Init
+	UnitNameTag_Init
+	Meteorite_Init
+HEADER_2
+	BoolExpr_Init
+	Buff_Init
+	Order_Init
+	Region_Init
+	Sound_Init
+	Spot_Init
+	TextTag_Init
+	Timer_Init
+	Trigger_Init
+HEADER_4
+	Camera_Init
+	Dialog_Init
+	Game_Init
+HEADER
+	Attack_Init
+	Math_Init
+	DataTable_Init
+	Primitive_Init
+	StringData_Init
+HEADER_5
+	Destructable_Init
+	EventCombination_Init
+	Item_Init
+	Misc_Init
+	Multiboard_Init
+	TileType_Init
+	Tile_Init
+	TileTypeMod_Init
+	Ubersplat_Init
+	WeatherEffect_Init
+HEADER_7
+	Effect_Init
+	Lightning_Init
+	Missile_Init
+	Spell_Init
+HEADER_EVENT
+	Event_Init
+	EventMemory_Init
+HEADER_GROUP
+	Group_Init
+HEADER_BUFFS
+	FolderUnit_FolderAbilities_FolderEvents_FolderEffect_StructChanneling_Buff_Init
+	FolderUnit_StructAttack_Buff_Init
+	FolderUnit_FolderDeath_StructExplosion_Buff_Init
+	FolderUnit_FolderDeath_StructProtection_Buff_Init
+	FolderUnit_StructInvulnerability_Buff_Init
+	FolderUnit_FolderMagicImmunity_StructSpellShield_Buff_Init
+	FolderUnit_StructMagicImmunity_Buff_Init
+	FolderUnit_StructScale_Buff_Init
+	FolderUnit_StructCold_Buff_Init
+	FolderUnit_StructFrost_Buff_Init
+	FolderUnit_FolderInvisibility_StructReveal_Buff_Init
+	FolderUnit_StructInvisibility_Buff_Init
+	FolderUnit_StructGhost_Buff_Init
+	FolderUnit_FolderLifeRegeneration_StructDisablement_Buff_Init
+	FolderUnit_FolderManaRegeneration_StructDisablement_Buff_Init
+	FolderUnit_StructMovement_Buff_Init
+	FolderUnit_StructBanish_Buff_Init
+	FolderUnit_StructMadness_Buff_Init
+	FolderUnit_StructEclipse_Buff_Init
+	FolderUnit_StructWhirl_Buff_Init
+	FolderUnit_StructBleeding_Buff_Init
+	FolderUnit_StructIgnited_Buff_Init
+	FolderUnit_StructKnockup_Buff_Init
+	FolderUnit_StructPathing_Buff_Init
+	FolderUnit_StructPoisoned_Buff_Init
+	FolderUnit_StructSilence_Buff_Init
+	FolderUnit_StructSleep_Buff_Init
+	FolderUnit_StructStun_Buff_Init
+	FolderUnit_FolderStamina_StructExhaustion_Buff_Init
+	FolderUnit_StructTimedLife_Buff_Init
+	FolderUnit_StructTransport_Buff_Init
+PREPLACED
+	Unit_DoPreplaced
+HEADER_6
+	Unit_Init
+HEADER_3
+	User_Init
+MISC_3
+	Act_Init
+MISC_4
+	ActUpgrades_Init
+	CreepSet_Init
+	DefenderSpawn_Init
+	Spawn_Init
+	Artifact_Init
+MISC_2
+	BrazierOracle_Init
+	CameraQuickPosition_Init
+	HeroRevival_Init
+	Hint_Init
+	Nullboard_Init
+	OptionsBoard_Init
+	StructInfo_Init
+	UnitStatus_Init
+	VictoryRush_Init
+	Zoom_Init
+CREEPBUFFS
+	MarkOfThePaw_Init
+SPELLS_MISC
+	EternalVial_Init
+	TorchLight_Init
+	ArcticBlink_Init
+	Devour_Init
+	BigHealingWave_Init
+	BurningSpiritMeteorite_Init
+	BurnLumber_Init
+	CoreFusion_Init
+	DarkAttack_Init
+	FountainAura_Init
+	FountainHeal_Init
+	FrostAttack_Init
+	Invisibility_Init
+	Invulnerability_Init
+	Lapidation_Init
+	LightningAttack_Init
+	MagicImmunity_Init
+	RefreshMana_Init
+	RevealAura_Init
+ITEMS_ACT1
+	BoomerangStone_Init
+	Mallet_Init
+	PenguinFeather_Init
+	RabbitsFoot_Init
+	RamblersStick_Init
+	EmergencyProvisions_Init
+	EyeOfTheFlame_Init
+	HerbalOintment_Init
+	ScrollOfProtection_Init
+ITEMS_ACT2
+	GruntAxe_Init
+	RobynsHood_Init
+ITEMS_ACT3
+	ElfinDagger_Init
+	SpearOfTheDefender_Init
+ITEMS_MISC
+	MeteoriteShard_Init
+	FireWater_Init
+	IceTea_Init
+	Meat_Init
+	TeleportScroll_Init
+	TropicalRainbow_Init
+MISC_LEVEL
+	Level_Init
+MISC_5
+	Rune_Init
+	Waypoint_Init
+SPEECHES
+	AxeFighter_Init
+	Balduir_Init
+SPELLS_HEADER
+	Aura_Init
+AI_SPELLS
+	AIBoost_Init
+	AIBurningSpirit_Init
+	AIChaosBall_Init
+	AIFlamelet_Init
+	AIHeal_Init
+	AIHealExplosion_Init
+	AIPurge_Init
+	AIStomp_Init
+	AIBouncyBomb_Init
+	AIKnockout_Init
+	AIMedipack_Init
+	AIPalingenesis_Init
+SPELLS_ACT1
+	Boost_Init
+	ChaosBall_Init
+	EnergyCharge_Init
+	Flamelet_Init
+	FuzzyAttack_Init
+	GreenNova_Init
+	Heal_Init
+	HealExplosion_Init
+	IceArrows_Init
+	LightningShield_Init
+	LunarRestoration_Init
+	Purge_Init
+	SoakingPoison_Init
+	Stampede_Init
+	Stomp_Init
+SPELLS_ACT2
+	Barrage_Init
+	BouncyBomb_Init
+	BurningOil_Init
+	ChainLightning_Init
+	Cleaver_Init
+	ColdResistance_Init
+	DeathAxe_Init
+	DrumRoll_Init
+	EnvenomedSpears_Init
+	Knockout_Init
+	Medipack_Init
+	MutingShout_Init
+	Realplex_Init
+	SerpentWard_Init
+	SpiritWolves_Init
+	Stormbolt_Init
+	SummonMinions_Init
+SPELLS_ARTIFACTS
+	BatSwarm_Init
+	HawkEye_Init
+	MagicBottle_Init
+	RedwoodValkyrie_Init
+	SapphireblueDagger_Init
+	SilentBoots_Init
+	StoneShield_Init
+	TaintedLeaf_Init
+	VioletEarring_Init
+	Vomit_Init
+	WhiteStaff_Init
+	Thunderbringer_Init
+SPELLS_PURCHASABLE
+	Barrier_Init
+	Blizzard_Init
+	ChillyBreath_Init
+	Fireburst_Init
+	FlameTongue_Init
+	FrozenStar_Init
+	GhostSword_Init
+	IceBlock_Init
+	InnerForce_Init
+	Severance_Init
+	SnowySphere_Init
+	Thunderstrike_Init
+	VividMeteor_Init
+	WarmthMagnetism_Init
+	NurturingGrounds_Init
+SPELLS_GRANT_ELEMENTALS
+	ElementalSpellToHero_Init
+SPELLS_ELEMENTAL
+	HackNSlay_Init
+	IceShock_Init
+	TheurgicVessel_Init
+SPELLS_HERO
+	Monolith_Init
+	SacredAura_Init
+	TwinWolves_Init
+	Brotherhood_Init
+	Carnivore_Init
+	WolfsMark_Init
+	Amaterasu_Init
+	ArcaneAttractor_Init
+	ArcticWolf_Init
+	BoulderCrash_Init
+	Conflagration_Init
+	Cyclone_Init
+	DeprivingShock_Init
+	Doppelganger_Init
+	EbonyShot_Init
+	EmphaticBite_Init
+	EnchantedArrow_Init
+	FairyShape_Init
+	FairysTears_Init
+	FountainOfLifeAndDeath_Init
+	DecayAura_Init
+	Palingenesis_Init
+	GarmentsOfTheSalamander_Init
+	HandOfNature_Init
+	SlowPoison_Init
+	HopNDrop_Init
+	Infection_Init
+	KhakiRecovery_Init
+	ManaColossus_Init
+	ManaLaser_Init
+	MassMimesis_Init
+	MountainKing_Init
+	NegationWave_Init
+	PandaPaw_Init
+	PurgingRain_Init
+	RazorBladeDrawBack_Init
+	RazorBlade_Init
+	RelentlessShiver_Init
+	RigorMortis_Init
+	SakeBomb_Init
+	SanguineEyes_Init
+	ShamanicBubble_Init
+	SleepingDraft_Init
+	SoberUp_Init
+	SteelImpalement_Init
+	SummonPolarBear_Init
+	Susanoo_Init
+	Swiftness_Init
+	TempestStrike_Init
+	Tsukuyomi_Init
+	WanShroud_Init
+	Warcry_Init
+	WaterBindings_Init
+	Lariat_Init
+	SoakingAttack_Init
+	ZodiacAura_Init
+	Zodiac_Init
+UNITS
+	Pengu_Init
+	Sebastian_Init
+HEADER_8
+OTHER

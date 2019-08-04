@@ -1,0 +1,12 @@
+field	jassIdent	1
+raw		D02E
+specials		dmas=3
+specials		dptx=
+specials		dnam=GrassBright
+specials		dmis=2
+specials		dcat=E
+specials		dvr1=150
+specials		dfil=Doodads\Grass\GrassBright.mdl
+specials		dtil=*
+specials		dvg1=175
+specials		dusr=1

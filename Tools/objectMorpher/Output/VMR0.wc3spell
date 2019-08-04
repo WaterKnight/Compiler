@@ -1,0 +1,9 @@
+field	jassIdent	1	2	3	4	5
+raw		VMR0
+specials						Neg4=
+specials						Neg5=
+specials						Neg1=0
+specials						abuf=BNeg
+specials						Neg2=0
+specials						Neg6=
+specials						Neg3=FMR3,FMR4

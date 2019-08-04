@@ -1,0 +1,22 @@
+								s__FolderUnit_StructBuffs_Remove_autoExec_final and s__FolderUnit_StructBuffs_Remove
+								eval from s__FolderUnit_StructBuffs_Remove_autoExec_final to s__FolderUnit_StructBuffs_Remove
+																	s__BuffRef_CreateWithLevel and s__FolderUnit_StructBuffs_SetLevel
+																	eval from s__BuffRef_CreateWithLevel to s__FolderUnit_StructBuffs_SetLevel
+											s__FolderUnit_StructBuffs_SetLevel and s__FolderUnit_StructBuffs_Remove
+											eval from s__FolderUnit_StructBuffs_SetLevel to s__FolderUnit_StructBuffs_Remove
+														s__FolderUnit_FolderPosition_StructX_Add and s__FolderUnit_FolderPosition_StructX_Set
+														eval from s__FolderUnit_FolderPosition_StructX_Add to s__FolderUnit_FolderPosition_StructX_Set
+															s__FolderUnit_FolderPosition_StructY_Set and s__Knockback_Event_Move
+															eval from s__FolderUnit_FolderPosition_StructY_Set to s__Knockback_Event_Move
+																		s__TranslationAccelerated_Destroy and s__FolderUnit_StructPosition_Nudge
+																		eval from s__TranslationAccelerated_Destroy to s__FolderUnit_StructPosition_Nudge
+								s__FolderUnit_StructAnimation_Reset and s__FolderUnit_FolderAnimation_StructLoop_Abort
+								eval from s__FolderUnit_StructAnimation_Reset to s__FolderUnit_FolderAnimation_StructLoop_Abort
+												s__FolderMissile_StructPosition_SetToUnitWithOffset and s__FolderMissile_StructPosition_Set
+												eval from s__FolderMissile_StructPosition_SetToUnitWithOffset to s__FolderMissile_StructPosition_Set
+						s__ChainLightning_Impact and s__ChainLightning_StartMissile
+						eval from s__ChainLightning_Impact to s__ChainLightning_StartMissile
+						s__Severance_Impact and s__Severance_StartMissile
+						eval from s__Severance_Impact to s__Severance_StartMissile
+						s__LightningAttack_Impact and s__LightningAttack_StartMissile
+						eval from s__LightningAttack_Impact to s__LightningAttack_StartMissile

@@ -1,0 +1,12 @@
+field	jassIdent	1
+raw		D01Q
+specials		dmas=2
+specials		dptx=
+specials		dsel=512
+specials		dmis=1
+specials		dcat=S
+specials		dsnd=
+specials		dfil=buildings\human\Blacksmith\Blacksmith.mdl
+specials		dtil=*
+specials		dnam=Blacksmith
+specials		dusr=1

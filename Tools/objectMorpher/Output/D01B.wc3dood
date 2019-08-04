@@ -1,0 +1,8 @@
+field	jassIdent	1
+raw		D01B
+specials		dfil=Doodads\Wall\WallTransparent.mdl
+specials		dmas=10
+specials		dptx=
+specials		dnam=Wall transparent
+specials		dtil=*
+specials		dusr=1

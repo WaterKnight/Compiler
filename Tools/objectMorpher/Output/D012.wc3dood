@@ -1,0 +1,7 @@
+field	jassIdent	1
+raw		D012
+specials		dmas=15
+specials		dptx=PathTextures\8x8Default.tga
+specials		dnam=Pillar
+specials		dtil=*
+specials		dusr=1

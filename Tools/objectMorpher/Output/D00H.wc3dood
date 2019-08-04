@@ -1,0 +1,9 @@
+field	jassIdent	1	2
+raw		D00H
+specials		dmas=10
+specials		dvb1=230	dvb1=230
+specials		dvg1=200	dvg1=200
+specials		dptx=
+specials		dnam=Broken Column
+specials		dvr1=200	dvr1=200
+specials		dusr=1

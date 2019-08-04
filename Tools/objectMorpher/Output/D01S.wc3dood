@@ -1,0 +1,9 @@
+field	jassIdent	1
+raw		D01S
+specials		dfil=Doodads\Cityscape\ArchwayFiller.mdl
+specials		dmas=10
+specials		dtil=*
+specials		dptx=
+specials		dnam=Cityscape ArchwayFiller
+specials		dmis=1
+specials		dusr=1

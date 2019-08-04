@@ -1,0 +1,26 @@
+
+Rhla --> R000
+	Ubertip(1): 
+	Ubertip(2): 
+	Ubertip(3): 
+	Hotkey(1): 
+	Hotkey(2): 
+	Hotkey(3): 
+	Tip(1): 
+	Tip(2): 
+	Tip(3): 
+	Art(1): 
+	Art(2): 
+	Art(3): 
+	race(0): other
+	maxlevel(0): 6
+	Name(1): Act 1
+	Name(2): Act 2
+	Name(3): Act 3
+	Name(4): Act 4
+	Name(5): Act 5
+	Name(6): Act 6
+	Requires(2): 
+	Requires(3): 
+	Buttonpos(0): 0
+	Buttonpos(0): 0

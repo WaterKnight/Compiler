@@ -1,0 +1,9 @@
+field	jassIdent	1
+raw		D01X
+specials		dfil=Doodads\Cityscape\Flag.mdl
+specials		dmas=1
+specials		dtil=*
+specials		dptx=
+specials		dnam=Cityscape Flag
+specials		dmis=1
+specials		dusr=1

@@ -1,0 +1,4 @@
+field	jassIdent	1	2	3	4	5
+raw		ARec
+specials						amcs=165
+specials						atar=air,friend,ground,invulnerable,neutral,organic,self,vulnerable

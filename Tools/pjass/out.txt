@@ -1,0 +1,4 @@
+Parse successful:     2418 lines: common.j
+Parse successful:    10230 lines: Blizzard.j
+Parse successful:      678 lines: D:\war3map.j
+Parse successful:    13326 lines: <total>

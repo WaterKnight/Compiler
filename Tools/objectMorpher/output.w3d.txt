@@ -1,0 +1,686 @@
+
+IRcy --> D000
+	vertB(8): 0
+	vertB(1): 0
+	vertB(6): 0
+	vertG(7): 128
+	vertG(5): 0
+	vertR(7): 0
+	vertR(1): 0
+	vertR(3): 0
+	Name(0): Crystal
+	maxPitch(0): 180
+	maxRoll(0): 180
+	UserList(0): 1
+	pathTex(0): 
+NOfl --> D010
+	tilesets(0): *
+	Name(0): Fence
+	UserList(0): 1
+	pathTex(0): 
+ISar --> D020
+	file(0): Doodads\Cityscape\FlagPole2.mdl
+	tilesets(0): *
+	Name(0): Cityscape FlagPole2
+	UserList(0): 1
+	maxScale(0): 1
+	minScale(0): 1
+	pathTex(0): 
+IRrs --> D001
+	Name(0): Snow Rock
+	maxPitch(0): 180
+	maxRoll(0): 180
+	UserList(0): 1
+	maxScale(0): 2.5
+	pathTex(0): 
+IOob --> D011
+	tilesets(0): *
+	UserList(0): 1
+	maxScale(0): 10
+	pathTex(0): 
+ISar --> D021
+	file(0): Doodads\Cityscape\Lantern.mdl
+	tilesets(0): *
+	Name(0): Cityscape Lantern
+	UserList(0): 1
+	maxScale(0): 3
+	minScale(0): 1
+	pathTex(0): 
+NWf3 --> D002
+	vertB(1): 190
+	vertG(1): 190
+	vertR(1): 200
+	Name(0): Ice Floe
+	UserList(0): 1
+	pathTex(0): 
+IOpr --> D012
+	tilesets(0): *
+	Name(0): Pillar
+	UserList(0): 1
+	maxScale(0): 15
+	pathTex(0): PathTextures\8x8Default.tga
+ISar --> D022
+	vertB(1): 210
+	vertG(1): 210
+	vertR(1): 190
+	file(0): Doodads\Cityscape\Pavement.mdl
+	tilesets(0): *
+	Name(0): Cityscape Pavement
+	UserList(0): 1
+	maxScale(0): 10
+	minScale(0): 1
+	pathTex(0): 
+IRgc --> D003
+	Name(0): Glacier
+	maxPitch(0): 180
+	maxRoll(0): 180
+	UserList(0): 1
+	maxScale(0): 1.35
+	minScale(0): 0.75
+	pathTex(0): 
+CObl --> D013
+	file(0): Doodads\Tree11\Tree11.mdl
+	tilesets(0): *
+	Name(0): Tree11
+	UserList(0): 1
+	maxScale(0): 1.5
+	minScale(0): 1.2
+	pathTex(0): 
+ISar --> D023
+	file(0): Doodads\Cityscape\PavementCorner.mdl
+	tilesets(0): *
+	Name(0): Cityscape PavementCorner
+	UserList(0): 1
+	maxScale(0): 5
+	minScale(0): 1
+	pathTex(0): 
+IRrk --> D004
+	Name(0): Rock
+	maxPitch(0): 180
+	maxRoll(0): 180
+	UserList(0): 1
+	maxScale(0): 3
+	pathTex(0): 
+JZif --> D014
+	tilesets(0): *
+	Name(0): Barrier
+	UserList(0): 1
+	maxScale(0): 10
+	pathTex(0): 
+ISar --> D024
+	file(0): Doodads\Cityscape\PavementCornerInverted.mdl
+	tilesets(0): *
+	Name(0): Cityscape PavementCornerInverted
+	UserList(0): 1
+	maxScale(0): 5
+	minScale(0): 1
+	pathTex(0): 
+IRgc --> D005
+	Name(0): Glacier (slant)
+	maxPitch(0): 1
+	maxRoll(0): 0.4
+	UserList(0): 1
+	pathTex(0): 
+YSw2 --> D015
+	vertB(1): 164
+	vertG(1): 128
+	vertR(1): 92
+	walkable(0): 1
+	tilesets(0): *
+	Name(0): Stair Step
+	UserList(0): 1
+	fixedRot(0): -1
+	maxScale(0): 5
+	pathTex(0): 
+ISar --> D025
+	vertB(1): 210
+	vertG(1): 210
+	vertR(1): 190
+	file(0): Doodads\Cityscape\Stairs.mdl
+	tilesets(0): *
+	Name(0): Cityscape Stairs
+	UserList(0): 1
+	maxScale(0): 5
+	minScale(0): 1
+	pathTex(0): 
+IWie --> D006
+	Name(0): Ice Edge
+	maxPitch(0): 1
+	maxRoll(0): 1
+	UserList(0): 1
+	pathTex(0): 
+YSw2 --> D016
+	vertB(1): 164
+	vertG(1): 128
+	vertR(1): 92
+	walkable(0): 1
+	file(0): Doodads\Cinematic\FootSwitch\FootSwitch.mdl
+	tilesets(0): *
+	Name(0): Darkness
+	UserList(0): 1
+	maxScale(0): 5
+	pathTex(0): 
+ISar --> D026
+	vertB(1): 160
+	vertG(1): 150
+	vertR(1): 140
+	file(0): Doodads\Cityscape\StairsCorner.mdl
+	tilesets(0): *
+	Name(0): Cityscape StairsCorner
+	UserList(0): 1
+	maxScale(0): 5
+	minScale(0): 1
+	pathTex(0): 
+NObo --> D007
+	file(0): Doodads\Northrend\Props\North_Bones\North_Bones7.mdl
+	tilesets(0): *
+	Name(0): Bones
+	maxPitch(0): 1
+	maxRoll(0): 1
+	numVar(0): 1
+	UserList(0): 1
+	maxScale(0): 4
+	pathTex(0): 
+GSah --> D017
+	Name(0): Archway Stone
+	UserList(0): 1
+	maxScale(0): 5
+	minScale(0): 0.1
+	pathTex(0): 
+ISar --> D027
+	file(0): Doodads\Cityscape\StairsPlatform.mdl
+	tilesets(0): *
+	Name(0): Cityscape StairsPlatform
+	UserList(0): 1
+	maxScale(0): 1
+	minScale(0): 1
+	pathTex(0): 
+IOss --> D008
+	tilesets(0): *
+	Name(0): Spider Statue
+	UserList(0): 1
+	maxScale(0): 3
+	pathTex(0): 
+JZif --> D018
+	vertB(1): 16
+	vertG(1): 0
+	vertR(1): 0
+	file(0): Doodads\Cinematic\FootSwitch\FootSwitch.mdl
+	tilesets(0): *
+	Name(0): Darkness
+	UserList(0): 1
+	maxScale(0): 10
+	minScale(0): 0.1
+	pathTex(0): 
+ISar --> D028
+	file(0): Doodads\Cityscape\StreetSign.mdl
+	tilesets(0): *
+	Name(0): Cityscape StreetSign
+	UserList(0): 1
+	maxScale(0): 1
+	minScale(0): 1
+	pathTex(0): 
+NOft --> D009
+	Name(0): Fire Pit (off)
+	UserList(0): 1
+	maxScale(0): 3
+	pathTex(0): 
+IOst --> D019
+	tilesets(0): *
+	Name(0): Skull Torch
+	UserList(0): 1
+	pathTex(0): 
+LOtz --> D029
+	Name(0): Torch
+	UserList(0): 1
+	pathTex(0): 
+NOfp --> D00A
+	Name(0): Fire Pit (on)
+	UserList(0): 1
+	pathTex(0): 
+CObl --> D01A
+	file(0): Doodads\Wall\WallEnd.mdl
+	tilesets(0): *
+	Name(0): Wall End
+	UserList(0): 1
+	maxScale(0): 10
+	pathTex(0): 
+CObl --> D02A
+	file(0): Doodads\Terrain\NorthrendTree\NorthrendTree.mdl
+	tilesets(0): *
+	Name(0): Dead Tree
+	UserList(0): 1
+	maxScale(0): 3
+	minScale(0): 2
+	pathTex(0): 
+DOtp --> D00B
+	Name(0): Treasure Pile
+	UserList(0): 1
+	maxScale(0): 2
+	pathTex(0): 
+CObl --> D01B
+	file(0): Doodads\Wall\WallTransparent.mdl
+	tilesets(0): *
+	Name(0): Wall transparent
+	UserList(0): 1
+	maxScale(0): 10
+	pathTex(0): 
+DOkb --> D02B
+	file(0): Units\NightElf\MalFurion\MalFurionNoStag.mdl
+	tilesets(0): *
+	Name(0): Pathing
+	UserList(0): 1
+	fixedRot(0): 270
+	onWater(0): 1
+	pathTex(0): 
+DOjp --> D00C
+	Name(0): Junk Pile
+	UserList(0): 1
+	maxScale(0): 2
+	pathTex(0): 
+KOst --> D01C
+	vertB(1): 0
+	vertG(1): 0
+	vertR(1): 0
+	useClickHelper(0): 1
+	selSize(0): 160
+	file(0): Doodads\Terrain\LOSBlocker\LOSBlocker.mdl
+	tilesets(0): *
+	Name(0): Blocker
+	UserList(0): 1
+	fixedRot(0): 0
+	pathTex(0): 
+IOch --> D02C
+	vertG(1): 200
+	vertR(1): 150
+	file(0): Doodads\Brush\Brush.mdl
+	tilesets(0): *
+	Name(0): Brush
+	UserList(0): 1
+	maxScale(0): 0.8
+	minScale(0): 0.6
+	category(0): E
+	pathTex(0): 
+LObr --> D00D
+	Name(0): abc
+	UserList(0): 1
+	pathTex(0): 
+CObl --> D01D
+	file(0): Doodads\Wall\Wall.mdl
+	tilesets(0): *
+	Name(0): Wall
+	UserList(0): 1
+	maxScale(0): 10
+	pathTex(0): 
+IOch --> D02D
+	file(0): Doodads\Grass\GrassBlack.mdl
+	tilesets(0): *
+	Name(0): Grass
+	UserList(0): 1
+	maxScale(0): 2
+	minScale(0): 2.4
+	category(0): E
+	pathTex(0): 
+LObz --> D00E
+	Name(0): Brazier
+	UserList(0): 1
+	pathTex(0): 
+IOpr --> D01E
+	file(0): Doodads\PillarTransparent\PillarTransparent.mdl
+	tilesets(0): *
+	Name(0): Pillar transparent
+	numVar(0): 1
+	UserList(0): 1
+	maxScale(0): 15
+	pathTex(0): 
+IOch --> D02E
+	vertG(1): 175
+	vertR(1): 150
+	file(0): Doodads\Grass\GrassBright.mdl
+	tilesets(0): *
+	Name(0): GrassBright
+	UserList(0): 1
+	maxScale(0): 3
+	minScale(0): 2
+	category(0): E
+	pathTex(0): 
+AObr --> D00F
+	tilesets(0): *
+	Name(0): Brazier2
+	UserList(0): 1
+	pathTex(0): 
+NOfl --> D01F
+	file(0): Doodads\Cinematic\RockinArthas\RockinArthas.mdl
+	tilesets(0): *
+	Name(0): Rockin Arthas
+	UserList(0): 1
+	maxScale(0): 10
+	pathTex(0): 
+IOch --> D02F
+	vertG(1): 175
+	vertR(1): 150
+	file(0): Doodads\Grass\GrassDark.mdl
+	tilesets(0): *
+	Name(0): GrassDark
+	UserList(0): 1
+	maxScale(0): 2.25
+	minScale(0): 1.5
+	category(0): E
+	pathTex(0): 
+YOec --> D00G
+	Name(0): Crates
+	UserList(0): 1
+	pathTex(0): 
+NOfl --> D01G
+	selSize(0): 100
+	file(0): Units\Other\TNTBarrel\TNTBarrel.mdl
+	tilesets(0): *
+	Name(0): Explosive
+	UserList(0): 1
+	maxScale(0): 1
+	minScale(0): 1
+	pathTex(0): 
+IOch --> D02G
+	vertG(1): 175
+	vertG(2): 80
+	vertR(1): 150
+	vertR(2): 80
+	file(0): Doodads\Grass\Grass
+	tilesets(0): *
+	Name(0): GrassBasic
+	numVar(0): 2
+	UserList(0): 1
+	maxScale(0): 2.25
+	minScale(0): 1.5
+	category(0): E
+	pathTex(0): 
+CSbc --> D00H
+	vertB(1): 230
+	vertB(2): 230
+	vertG(1): 200
+	vertG(2): 200
+	vertR(1): 200
+	vertR(2): 200
+	Name(0): Broken Column
+	UserList(0): 1
+	maxScale(0): 10
+	pathTex(0): 
+IOpr --> D01H
+	file(0): Doodads\Waterfall\Waterfall.mdl
+	tilesets(0): *
+	Name(0): Waterfall
+	numVar(0): 1
+	UserList(0): 1
+	maxScale(0): 10
+	pathTex(0): 
+AOob --> D02H
+	tilesets(0): 
+	Name(0): Obelisk Red
+	UserList(0): 1
+	pathTex(0): 
+ISar --> D00I
+	file(0): Doodads\Archway\Archway.mdl
+	Name(0): Archway
+	maxPitch(0): 0.1
+	maxRoll(0): 0.1
+	UserList(0): 1
+	maxScale(0): 4
+	pathTex(0): 
+VOfs --> D01I
+	tilesets(0): *
+	Name(0): Horse Fence
+	UserList(0): 1
+	pathTex(0): 
+DSp9 --> D00J
+	file(0): Other\HeroRevival\HeroRevival.mdl
+	Name(0): Hero Revival
+	numVar(0): 1
+	UserList(0): 1
+	maxScale(0): 3
+	category(0): Z
+	pathTex(0): 
+LOtr --> D01J
+	Name(0): Trough
+	UserList(0): 1
+	pathTex(0): 
+LSst --> D00K
+	tilesets(0): *
+	Name(0): Tower
+	UserList(0): 1
+	maxScale(0): 4
+	pathTex(0): 
+ZOfp --> D01K
+	vertG(1): 200
+	vertR(1): 200
+	tilesets(0): *
+	Name(0): Firepot
+	UserList(0): 1
+	maxScale(0): 10
+	pathTex(0): 
+LOsp --> D00L
+	Name(0): Sign Post
+	UserList(0): 1
+	maxScale(0): 4
+	pathTex(0): 
+YOf2 --> D01L
+	Name(0): Fire Pillar
+	UserList(0): 1
+	maxScale(0): 2
+IOch --> D00M
+	tilesets(0): *
+	Name(0): Chair
+	UserList(0): 1
+	pathTex(0): 
+YOtf --> D01M
+	Name(0): Fire
+	UserList(0): 1
+ISrb --> D00N
+	vertG(1): 200
+	vertR(1): 200
+	onCliffs(0): 1
+	tilesets(0): *
+	Name(0): Rubble
+	UserList(0): 1
+	onWater(0): 1
+	pathTex(0): 
+KOdr --> D01N
+	tilesets(0): *
+	Name(0): Red Runes
+	UserList(0): 1
+	maxScale(0): 10
+	pathTex(0): 
+ASbr --> D00O
+	vertB(1): 240
+	vertB(2): 240
+	vertB(3): 240
+	vertG(1): 170
+	vertG(2): 170
+	vertG(3): 170
+	vertR(1): 150
+	vertR(2): 150
+	vertR(3): 150
+	tilesets(0): *
+	Name(0): Rubble2
+	UserList(0): 1
+	pathTex(0): 
+XOmr --> D01O
+	tilesets(0): *
+	Name(0): Runes
+	UserList(0): 1
+	pathTex(0): 
+YOts --> D00P
+	tilesets(0): *
+	Name(0): Tavern Sign
+	UserList(0): 1
+	maxScale(0): 2
+	onWater(0): 1
+	pathTex(0): 
+JOgr --> D01P
+	tilesets(0): *
+	Name(0): Glowing Runes
+	UserList(0): 1
+	pathTex(0): 
+OOob --> D00Q
+	tilesets(0): *
+	Name(0): Obstacle
+	UserList(0): 1
+	pathTex(0): 
+ZOfp --> D01Q
+	soundLoop(0): 
+	selSize(0): 512
+	file(0): buildings\human\Blacksmith\Blacksmith.mdl
+	tilesets(0): *
+	Name(0): Blacksmith
+	UserList(0): 1
+	maxScale(0): 2
+	minScale(0): 1
+	category(0): S
+	pathTex(0): 
+DOkb --> D00R
+	tilesets(0): *
+	Name(0): Bookshelf
+	UserList(0): 1
+	onWater(0): 1
+	pathTex(0): 
+ISar --> D01R
+	file(0): Doodads\Cityscape\Archway.mdl
+	tilesets(0): *
+	Name(0): Cityscape Archway
+	UserList(0): 1
+	maxScale(0): 5
+	minScale(0): 1
+	pathTex(0): 
+ZOtr --> D00S
+	vertB(1): 210
+	vertB(2): 210
+	vertG(1): 150
+	vertG(2): 150
+	vertR(1): 150
+	vertR(2): 150
+	tilesets(0): *
+	Name(0): Ruins Trash
+	UserList(0): 1
+	pathTex(0): 
+ISar --> D01S
+	file(0): Doodads\Cityscape\ArchwayFiller.mdl
+	tilesets(0): *
+	Name(0): Cityscape ArchwayFiller
+	UserList(0): 1
+	maxScale(0): 10
+	minScale(0): 1
+	pathTex(0): 
+DObw --> D00T
+	tilesets(0): *
+	Name(0): Bookshelf2
+	UserList(0): 1
+	onWater(0): 1
+	pathTex(0): 
+ISar --> D01T
+	file(0): Doodads\Cityscape\ArchwayHalf.mdl
+	tilesets(0): *
+	Name(0): Cityscape ArchwayHalf
+	UserList(0): 1
+	maxScale(0): 1
+	minScale(0): 1
+	pathTex(0): 
+CObl --> D00U
+	useClickHelper(0): 1
+	file(0): Doodads\ColdAir\ColdAir.mdl
+	tilesets(0): *
+	Name(0): Cold Air
+	UserList(0): 1
+	category(0): Z
+	pathTex(0): 
+ISar --> D01U
+	vertB(1): 200
+	vertG(1): 200
+	vertR(1): 180
+	file(0): Doodads\Cityscape\Bridge.mdl
+	tilesets(0): *
+	Name(0): Cityscape Bridge
+	maxPitch(0): -6.1
+	UserList(0): 1
+	maxScale(0): 3
+	minScale(0): 1
+	pathTex(0): 
+CObl --> D00V
+	file(0): Doodads\Tree11\Tree11.mdl
+	tilesets(0): *
+	Name(0): Tree
+	UserList(0): 1
+	maxScale(0): 3
+	minScale(0): 1
+	pathTex(0): 
+ISar --> D01V
+	file(0): Doodads\Cityscape\Fence.mdl
+	tilesets(0): *
+	Name(0): Cityscape Fence
+	UserList(0): 1
+	maxScale(0): 5
+	minScale(0): 1
+	pathTex(0): 
+IRcy --> D00W
+	vertB(8): 0
+	vertG(7): 128
+	vertR(7): 0
+	file(0): Doodads\LordaeronSummer\Terrain\LoardaeronRockChunks\LoardaeronRockChunksblub1blub.mdl
+	Name(0): Rock Chunks
+	maxPitch(0): 180
+	maxRoll(0): 180
+	numVar(0): 6
+	UserList(0): 1
+	pathTex(0): 
+ISar --> D01W
+	file(0): Doodads\Cityscape\FirePlace.mdl
+	tilesets(0): *
+	Name(0): Cityscape FirePlace
+	UserList(0): 1
+	maxScale(0): 2
+	minScale(0): 1
+	pathTex(0): 
+IOsl --> D00X
+	vertB(1): 220
+	vertG(1): 220
+	vertR(1): 220
+	tilesets(0): *
+	Name(0): Spider Statue2
+	UserList(0): 1
+	maxScale(0): 5
+	pathTex(0): 
+ISar --> D01X
+	file(0): Doodads\Cityscape\Flag.mdl
+	tilesets(0): *
+	Name(0): Cityscape Flag
+	UserList(0): 1
+	maxScale(0): 1
+	minScale(0): 1
+	pathTex(0): 
+KOst --> D00Y
+	vertG(1): 164
+	vertR(1): 120
+	tilesets(0): *
+	Name(0): Monk Statue
+	UserList(0): 1
+	pathTex(0): 
+ISar --> D01Y
+	file(0): Doodads\Cityscape\Flag2.mdl
+	tilesets(0): *
+	Name(0): Cityscape Flag2
+	UserList(0): 1
+	maxScale(0): 5
+	minScale(0): 1
+	pathTex(0): 
+YOst --> D00Z
+	tilesets(0): *
+	Name(0): Knight Statue
+	UserList(0): 1
+	maxScale(0): 10
+	pathTex(0): 
+ISar --> D01Z
+	file(0): Doodads\Cityscape\FlagPole.mdl
+	tilesets(0): *
+	Name(0): Cityscape FlagPole
+	UserList(0): 1
+	maxScale(0): 1
+	minScale(0): 1
+	pathTex(0): 

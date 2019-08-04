@@ -1,0 +1,10 @@
+field	jassIdent	1
+raw		D01G
+specials		dfil=Units\Other\TNTBarrel\TNTBarrel.mdl
+specials		dnam=Explosive
+specials		dsel=100
+specials		dmas=1
+specials		dptx=
+specials		dtil=*
+specials		dmis=1
+specials		dusr=1

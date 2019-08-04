@@ -1,0 +1,9 @@
+field	jassIdent	1
+raw		D00I
+specials		dfil=Doodads\Archway\Archway.mdl
+specials		dmas=4
+specials		dmar=0.1
+specials		dptx=
+specials		dmap=0.1
+specials		dnam=Archway
+specials		dusr=1

@@ -1,0 +1,2 @@
+o "D:\Programme\GHost Files\maps\[BK's] Gem TD v4.0kn.w3x" "D:\Warcraft III\Mapping\Compiler\Tools\wc3binary\listfile.txt"
+e "D:\Programme\GHost Files\maps\[BK's] Gem TD v4.0kn.w3x" "war3map.wts" "D:\Warcraft III\Mapping\Compiler\Tools\wc3binary\applications\readMapInfo\tempPorted\" /fp

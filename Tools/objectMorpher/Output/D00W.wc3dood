@@ -1,0 +1,12 @@
+field	jassIdent	1	2	3	4	5	6	7	8
+raw		D00W
+specials		dfil=Doodads\LordaeronSummer\Terrain\LoardaeronRockChunks\LoardaeronRockChunksblub1blub.mdl
+specials		dvar=6
+specials									dvb1=0
+specials		dptx=
+specials		dmap=180
+specials								dvr1=0	
+specials		dnam=Rock Chunks
+specials								dvg1=128	
+specials		dmar=180
+specials		dusr=1

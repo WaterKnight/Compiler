@@ -1,0 +1,12 @@
+field	jassIdent	1
+raw		D018
+specials		dmas=10
+specials		dvb1=16
+specials		dptx=
+specials		dnam=Darkness
+specials		dmis=0.1
+specials		dvr1=0
+specials		dfil=Doodads\Cinematic\FootSwitch\FootSwitch.mdl
+specials		dtil=*
+specials		dvg1=0
+specials		dusr=1

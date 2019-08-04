@@ -1,0 +1,10 @@
+field	jassIdent	1
+raw		D02D
+specials		dfil=Doodads\Grass\GrassBlack.mdl
+specials		dmas=2
+specials		dcat=E
+specials		dtil=*
+specials		dptx=
+specials		dnam=Grass
+specials		dmis=2.4
+specials		dusr=1

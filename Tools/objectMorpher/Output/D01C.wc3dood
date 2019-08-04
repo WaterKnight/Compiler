@@ -1,0 +1,13 @@
+field	jassIdent	1
+raw		D01C
+specials		dfil=Doodads\Terrain\LOSBlocker\LOSBlocker.mdl
+specials		dvb1=0
+specials		dptx=
+specials		dsel=160
+specials		dfxr=0
+specials		dvg1=0
+specials		dvr1=0
+specials		duch=1
+specials		dtil=*
+specials		dnam=Blocker
+specials		dusr=1
